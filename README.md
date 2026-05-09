@@ -35,10 +35,9 @@ My work focuses on bridging the gap between **academic research** and **real-wor
 | Project                                    | Description                                                                                      | Stack                                               |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
 | [**Federated IDS System**](#)              | Privacy-preserving intrusion detection system using Flower framework and CNN-BiLSTM architecture | `PyTorch` `Flower` `Federated Learning`             |
-| [**Multilingual RAG System**](#)           | Bangla-English RAG pipeline with FAISS vector search and LLM integration                         | `LangChain` `FAISS` `Ollama` `SentenceTransformers` |
-| [**Missing Persons Management DApp**](#)   | Blockchain-powered decentralized application for missing persons tracking and management         | `Solidity` `Web3.js` `Ganache` `MetaMask`           |
-| [**Patient Management Smart Contract**](#) | Smart contract-based healthcare management system with role-based access control                 | `Ethereum` `Solidity` `Bootstrap`                   |
-| [**POS Tagging Research**](#)              | Comparative deep learning study on LSTM, GRU, BiLSTM, and RNN for NLP tasks                      | `Keras` `TensorFlow` `NLP`                          |
+| [**Explaiin_your_brain_image_with_XAI**](https://github.com/RoaringRoyel/Explaiin_your_brain_image_with_XAI)              | An explainable AI (XAI) web application for brain MRI tumor classification, powered by ResNet-18 and three interpretability methods: Grad-CAM, SHAP, and LIME. | `PyTorch` `Fast API` `XAI`             |
+| [**Multilingual RAG System**](https://github.com/RoaringRoyel/Simple-Multilingual-Retrieval-Augmented-Generation-RAG-System)           | Bangla-English RAG pipeline with FAISS vector search and LLM integration                         | `LangChain` `FAISS` `Ollama` `SentenceTransformers` |
+| [**Missing Persons Management DApp**](https://github.com/RoaringRoyel/DAPP_-MissingPerson_Solidarity_-)   | Blockchain-powered decentralized application for missing persons tracking and management         |
 
 ---
 
@@ -99,13 +98,12 @@ My work focuses on bridging the gap between **academic research** and **real-wor
 
 ## 📚 Publications & Research
 
-* 📄 **Multifaceted Performance Evaluation of LSTM, GRU, BiLSTM, and RNN Models in Text Classification**
-
-  > Comparative analysis of sequential deep learning architectures for NLP and POS tagging tasks using Keras.
-
-* 📄 **Federated Learning-Based Intrusion Detection System using CNN-BiLSTM** *(Ongoing Research)*
+* 📄 [**Federated Learning-Based Intrusion Detection System using CNN-BiLSTM**] (#https://dspace.bracu.ac.bd/xmlui/handle/10361/27420)
 
   > Privacy-preserving AI framework for distributed cybersecurity environments using Flower and PyTorch.
+* 📄 Novel Formalin Detection and Analysis System using AI Techniques (Research Project)
+  > AI-driven approach for detecting formalin contamination using machine learning and intelligent data analysis techniques.
+
 
 ---
 
